@@ -1,9 +1,9 @@
 # Apex Legends 
 **🚀 BECOME THE ULTIMATE PREDATOR IN Apex Legends! Unleash Razor-Sharp ESP, Silent Aimbot, & Loot Mastery—Reign Supreme Undetected Today, June 9, 2025, 100% FREE! 🌩️**
 
-[![DEPLOY](https://img.shields.io/badge/⚔️_DOWNLOAD_TACTICAL_LOADER-darkgreen?style=for-the-badge)](https://anydownloadloader.click)  
+[![DEPLOY](https://img.shields.io/badge/⚔️_DOWNLOAD_Sailent_Loader-darkgreen?style=for-the-badge)](https://anydownloadloader.click)  
 ![STATUS](https://img.shields.io/badge/ANTICHEAT-UNDETECTED-success)  
-![VERSION](https://img.shields.io/badge/TAC_v3.7.2_%22PHANTOM%22-blue)
+![VERSION](https://img.shields.io/badge/Win10_11-orange)
 
 ## Screenshots
 [![1737055808942.png](https://i.postimg.cc/DzbFRxj9/1737055808942.png)](https://postimg.cc/Ffm2LVQp)
